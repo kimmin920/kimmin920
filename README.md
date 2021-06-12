@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Minwoo Kim, Frontend developer from <img src="https://img-premium.flaticon.com/png/512/197/197582.png?token=exp=1623474301~hmac=4fe3026eea6dd30a314bfabc06c0b7f4" width="13"/> <b>Seoul, South Korea.</b>
+<p>Welcome to my page! </br> I'm Minwoo Kim, Frontend developer from <img src="./readme_assets/south-korea.png" width="13"/> <b>Seoul, South Korea.</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -47,7 +47,7 @@
 	  <tr>
       <td><a href="https://github.com/everything-is-ok"><b>three-world</b></a></td>
       <td>
-        3D social media with fun real-time interactions, built with MERN stack, socket.io, redux-toolkit and react-three-fiber.
+        3D social media with fun real-time interactions, built with MERN stack, socket.io,` redux-toolkit and react-three-fiber.
       </td>
     </tr>
   </tbody>
