@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
 <p>Welcome to my page! </br> I'm Minwoo Kim, Frontend developer from <img src="./readme_assets/south-korea.png" width="13"/> <b>Seoul, South Korea.</b>
 <h3>Things I code with</h3>
 <p>
@@ -60,3 +59,29 @@
   </tbody>
 </table>
 
+<br>
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kimmin920&show_icons=true&locale=en&layout=compact"
+    alt="kimmin920"
+  />
+</p>
+
+<br>
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kimmin920&show_icons=true&locale=en"
+    alt="kimmin920"
+  />
+</p>
+
+<br>
+
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kimmin920&"
+    alt="kimmin920"
+  />
+</p>
