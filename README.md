@@ -66,22 +66,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kimmin920&show_icons=true&locale=en&layout=compact"
     alt="kimmin920"
   />
-</p>
-
-<br>
-
-<p>
   <img
     src="https://github-readme-stats.vercel.app/api?username=kimmin920&show_icons=true&locale=en"
-    alt="kimmin920"
-  />
-</p>
-
-<br>
-
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kimmin920&"
     alt="kimmin920"
   />
 </p>
