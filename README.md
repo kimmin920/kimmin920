@@ -48,13 +48,13 @@
     <tr>
       <td><a href="https://github.com/minimo-editor"><b>minimo</b></a></td>
       <td>
-        Block-style web editor with drag and drop, builit with MERN stack.
+        Block-style web editor with drag and drop, builit with MERN stack.  (in 2021)
       </td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/everything-is-ok"><b>three-world</b></a></td>
       <td>
-        3D social media with fun real-time interactions, built with MERN stack, socket.io, redux-toolkit and react-three-fiber.
+        3D social media with fun real-time interactions, built with MERN stack, socket.io, redux-toolkit and react-three-fiber. (in 2021)
       </td>
     </tr>
   </tbody>
